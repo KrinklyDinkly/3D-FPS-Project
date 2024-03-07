@@ -496,3 +496,347 @@ Received Import Request.
 Start importing Assets/Models/Character/Dummy.fbx using Guid(709ef71dc5f504741b3c3fc2b589fa9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '875e24689c448c53da26527775815f69') in 0.284374 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 200
+========================================================================
+Received Import Request.
+  Time since last request: 435.945323 seconds.
+  path: Assets/Models/Prototype Models/Ammo_Magazine.fbx
+  artifactKey: Guid(8bfde7385729e4d5a9a6fa5e2ce5698f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Ammo_Magazine.fbx using Guid(8bfde7385729e4d5a9a6fa5e2ce5698f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eff19f31c1e742034eb3b02f01552b0d') in 0.016959 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Models/Prototype Models/Can_B.fbx
+  artifactKey: Guid(29e2c398d0d9a4c84be699c00ebe12db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Can_B.fbx using Guid(29e2c398d0d9a4c84be699c00ebe12db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '843c3c08a5a65b9dc849286e7fbfc1d9') in 0.009519 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Models/Prototype Models/Bat.fbx
+  artifactKey: Guid(29c020ea3b87a431e8111fdd7e492a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Bat.fbx using Guid(29c020ea3b87a431e8111fdd7e492a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a9306b1fa734dd631830eecf1ce412e') in 0.008153 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/Models/Prototype Models/Barrel_C.fbx
+  artifactKey: Guid(0db51e1cf44904442a051fa231b9e09c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Barrel_C.fbx using Guid(0db51e1cf44904442a051fa231b9e09c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8bb6ddd1c1677bd3e41907d22f0978d') in 0.007461 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Models/Prototype Models/Barrel_B.fbx
+  artifactKey: Guid(3b639097477484001bc06d19dc83cfb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Barrel_B.fbx using Guid(3b639097477484001bc06d19dc83cfb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae8cd77d15db95d64b703a712587c037') in 0.007708 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Models/Prototype Models/Barrel_A.fbx
+  artifactKey: Guid(d36d0ed2fdc5743e2a027c5e2f412e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Barrel_A.fbx using Guid(d36d0ed2fdc5743e2a027c5e2f412e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54032343115db69a67b044e849985094') in 0.008713 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/Models/Prototype Models/Bullet.fbx
+  artifactKey: Guid(8975c19309ca340e3801fef24efc1262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Bullet.fbx using Guid(8975c19309ca340e3801fef24efc1262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d18772f5ab8967ea538e50b30861ba7') in 0.007531 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Models/Prototype Models/Box_A.fbx
+  artifactKey: Guid(3a2b374d7cd1a4aadab379d606dbb7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Box_A.fbx using Guid(3a2b374d7cd1a4aadab379d606dbb7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb6f5c60432eb35ce95286e3ac111907') in 0.007078 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Models/Prototype Models/Box_B.fbx
+  artifactKey: Guid(d00bbce4107674df3a91e4fefb687d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Box_B.fbx using Guid(d00bbce4107674df3a91e4fefb687d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '081e64f08c0b58d1d13e9c320bf6f108') in 0.006613 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Models/Prototype Models/Can_A.fbx
+  artifactKey: Guid(cd1055fc2bf4e4ec6bd15a97121f5075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Can_A.fbx using Guid(cd1055fc2bf4e4ec6bd15a97121f5075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca9082de00ec24ebfdfb0910b897a121') in 0.006407 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Models/Prototype Models/Box_C.fbx
+  artifactKey: Guid(a7d4aca42239547f6b53a2a99e630565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Box_C.fbx using Guid(a7d4aca42239547f6b53a2a99e630565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b16efb40f58fa1bb240e7d9e02f16cd') in 0.005815 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Models/Prototype Models/Coin_A.fbx
+  artifactKey: Guid(5115c6ca36add45089651e840f226154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Coin_A.fbx using Guid(5115c6ca36add45089651e840f226154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4caf664b25f07bc8abbd0ff609507e6e') in 0.006436 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 3.308224 seconds.
+  path: Assets/Models/Prototype Models/Coin_C.fbx
+  artifactKey: Guid(02d1527e8be7f434bb32d8431d928e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Coin_C.fbx using Guid(02d1527e8be7f434bb32d8431d928e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44ed4ea825985fe445e65be355af094c') in 0.013782 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Models/Prototype Models/Cube_Prototype_Small.fbx
+  artifactKey: Guid(62eb3491eec3f4c1a8cdd3a4eb7d24a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Cube_Prototype_Small.fbx using Guid(62eb3491eec3f4c1a8cdd3a4eb7d24a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b6dc35cd8b23a8740449cf67a9f5276') in 0.010117 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 3.393652 seconds.
+  path: Assets/Models/Prototype Models/Door_B.fbx
+  artifactKey: Guid(3c98d691715324d07ad02d4e535e64f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Door_B.fbx using Guid(3c98d691715324d07ad02d4e535e64f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecba092ebdb8d090ed838aaf3cb057b1') in 0.018014 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.789193 seconds.
+  path: Assets/Models/Prototype Models/Floor_Dirt.fbx
+  artifactKey: Guid(f292c69a84b344b8b8cd27b49acb0f48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Floor_Dirt.fbx using Guid(f292c69a84b344b8b8cd27b49acb0f48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20e80518b8a4d99ed122baeb363f6c67') in 0.013129 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.477838 seconds.
+  path: Assets/Models/Prototype Models/Gun_Rifle.fbx
+  artifactKey: Guid(4e8cc8cb470204d429530b06b60cf8df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Gun_Rifle.fbx using Guid(4e8cc8cb470204d429530b06b60cf8df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aec44bc9feb035b40cd056d6449ed038') in 0.018299 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 1.085325 seconds.
+  path: Assets/Models/Prototype Models/Locker_Decorated.fbx
+  artifactKey: Guid(9345caefcb1834daabd5998ab647810f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Locker_Decorated.fbx using Guid(9345caefcb1834daabd5998ab647810f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00b99ff70640fd9ab6e0a644c2a166d3') in 0.021147 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.538267 seconds.
+  path: Assets/Models/Prototype Models/Pallet_Small_Decorated_A.fbx
+  artifactKey: Guid(551773265aa624fc285264a3432239f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Pallet_Small_Decorated_A.fbx using Guid(551773265aa624fc285264a3432239f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54280a8aa6f4ac0835588a065d32e69d') in 0.016784 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.124733 seconds.
+  path: Assets/Models/Prototype Models/Pillar_B.fbx
+  artifactKey: Guid(6cf332f391e2546a4ae6765e847e7cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Pillar_B.fbx using Guid(6cf332f391e2546a4ae6765e847e7cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a871e106c3d7226579bb48b3b3b8919') in 0.012844 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 497.221986 seconds.
+  path: Assets/Models/Prototype Models/Primitive_Cube_Small.fbx
+  artifactKey: Guid(079f405e1a56c471d9afcf7b51e2496b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Primitive_Cube_Small.fbx using Guid(079f405e1a56c471d9afcf7b51e2496b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d300c0f65b29910be4d915a7cb0331a') in 0.013030 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Models/Prototype Models/Primitive_Doorway.fbx
+  artifactKey: Guid(c18cf5062f26a4e47a67289e800340cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Primitive_Doorway.fbx using Guid(c18cf5062f26a4e47a67289e800340cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf222b9c6b2b4fcde7f3f828c412aa68') in 0.010159 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.246719 seconds.
+  path: Assets/Models/Prototype Models/Primitive_Floor_Hole.fbx
+  artifactKey: Guid(9ff685f0ccbc3484a83b8ca8792a4a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Primitive_Floor_Hole.fbx using Guid(9ff685f0ccbc3484a83b8ca8792a4a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '993f25f1b2b2b7245d89b19fddbbca51') in 0.012682 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/Models/Prototype Models/Primitive_Slope_InnerCorner.fbx
+  artifactKey: Guid(3ac40f74da1994c68b104e955cc362d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Primitive_Slope_InnerCorner.fbx using Guid(3ac40f74da1994c68b104e955cc362d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e62d9f05813cbb05f4a4e157ef7ea6a') in 0.010937 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Models/Prototype Models/Primitive_Wall.fbx
+  artifactKey: Guid(d8f1f976448d34cfa89899e3d8d2da27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Primitive_Wall.fbx using Guid(d8f1f976448d34cfa89899e3d8d2da27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85c7995bdf9319d20720d9f63535f44c') in 0.008999 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Models/Prototype Models/Primitive_Slope_Half_OuterCorner.fbx
+  artifactKey: Guid(27448a7b5813542e6a414e7a4ec12275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Primitive_Slope_Half_OuterCorner.fbx using Guid(27448a7b5813542e6a414e7a4ec12275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a13c3228d405be3d3c8dde0b8fd25a9') in 0.008459 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/Models/Prototype Models/table_medium_Decorated.fbx
+  artifactKey: Guid(39e2a758acc404ebb9ae738d8a7cdd4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/table_medium_Decorated.fbx using Guid(39e2a758acc404ebb9ae738d8a7cdd4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2191500f3ffb6ae6a22b1f802441143') in 0.007984 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Models/Prototype Models/Primitive_Slope_Half_InnerCorner.fbx
+  artifactKey: Guid(7ae7fe9dc8645464c99cb5bdb3d8d73c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Primitive_Slope_Half_InnerCorner.fbx using Guid(7ae7fe9dc8645464c99cb5bdb3d8d73c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd892a1773d4d93785c0362bd4edea9b3') in 0.006982 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Models/Prototype Models/prototypebits_texture.png
+  artifactKey: Guid(3ae542f8e179549679560ad819739151) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/prototypebits_texture.png using Guid(3ae542f8e179549679560ad819739151) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f72774bd0efe0286f1c61d8a9312e2e4') in 0.038335 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/Models/Prototype Models/Primitive_Slope_OuterCorner.fbx
+  artifactKey: Guid(4a04ef95fd5894fe081da0d86381f6ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Primitive_Slope_OuterCorner.fbx using Guid(4a04ef95fd5894fe081da0d86381f6ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd568e4b015b0bcd6b1036a8efb30c307') in 0.007875 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Models/Prototype Models/Primitive_Wall_OpenCorner.fbx
+  artifactKey: Guid(167d38d35a10841a2a1764c093a67e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Primitive_Wall_OpenCorner.fbx using Guid(167d38d35a10841a2a1764c093a67e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac1d7785974f08fdaeb4ee19507103fb') in 0.006780 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Models/Prototype Models/target_pieces_B.fbx
+  artifactKey: Guid(b5037476510d4436380d7fec80073f8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/target_pieces_B.fbx using Guid(b5037476510d4436380d7fec80073f8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e029da1cfd974cc69314eb1b4bd29d7') in 0.007120 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.408586 seconds.
+  path: Assets/Models/Prototype Models/target_pieces_D.fbx
+  artifactKey: Guid(45562a4a52d344258871d3bfaa05589c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/target_pieces_D.fbx using Guid(45562a4a52d344258871d3bfaa05589c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '103afd5ca12e1e4c44ff72256a98110b') in 0.008387 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Models/Prototype Models/target_stand_A.fbx
+  artifactKey: Guid(f8c07662762e348c0919c8e34d94446f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/target_stand_A.fbx using Guid(f8c07662762e348c0919c8e34d94446f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4359375438b0e84b51fb8ccca7b14285') in 0.006262 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Models/Prototype Models/target_pieces_E.fbx
+  artifactKey: Guid(901f0fa801e33491695e12460543d1d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/target_pieces_E.fbx using Guid(901f0fa801e33491695e12460543d1d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea511bcb6a1432712f982d74ccfbab3f') in 0.007282 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.009341 seconds.
+  path: Assets/Models/Prototype Models/target_stand_B.fbx
+  artifactKey: Guid(ae18c00f136854c5dbfea9da4de17a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/target_stand_B.fbx using Guid(ae18c00f136854c5dbfea9da4de17a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4827ce7531d2de0dbf66d15ba9ba41e5') in 0.007780 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Models/Prototype Models/target_wall_small.fbx
+  artifactKey: Guid(5128f19bdbe2641c0b7400b6095be246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/target_wall_small.fbx using Guid(5128f19bdbe2641c0b7400b6095be246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4339cee9995dcfc4a393a0d1af5fcec') in 0.006806 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Models/Prototype Models/Wall_Target.fbx
+  artifactKey: Guid(99b3888e0f4b146d49337c2eaf7cf593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Wall_Target.fbx using Guid(99b3888e0f4b146d49337c2eaf7cf593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7b4a6cfc5a2a08ecd649f062d803739') in 0.006399 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Models/Prototype Models/Weaponrack.fbx
+  artifactKey: Guid(0f809bb70c1004cef8a2ba8fbf7f328a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Weaponrack.fbx using Guid(0f809bb70c1004cef8a2ba8fbf7f328a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a2bc9e3963aeaf8b6ee5bd9b4ccfaff') in 0.006047 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Models/Prototype Models/Wall_Window_Open.fbx
+  artifactKey: Guid(2ccf53543f4a74d848c7e421284c3a39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Wall_Window_Open.fbx using Guid(2ccf53543f4a74d848c7e421284c3a39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af43fee8caef888ff77700510c2c6c2c') in 0.008752 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Models/Prototype Models/Wall_Doorway.fbx
+  artifactKey: Guid(723de041bef1d45a6822910dabe6b92e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Wall_Doorway.fbx using Guid(723de041bef1d45a6822910dabe6b92e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ab02d9a1e3ec10cdba05449b95f563f') in 0.008282 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Models/Prototype Models/target_wall_large_A.fbx
+  artifactKey: Guid(03c1c9e5ce7c44d098279a9c30f010a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/target_wall_large_A.fbx using Guid(03c1c9e5ce7c44d098279a9c30f010a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f9c308d77695a1b24d322ae7e08baaa') in 0.007876 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Models/Prototype Models/Wall_Decorated.fbx
+  artifactKey: Guid(4859a37eb2c8e466ea76ac4be67478cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prototype Models/Wall_Decorated.fbx using Guid(4859a37eb2c8e466ea76ac4be67478cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8ec94bdffe230cb062ac72011529c89') in 0.006182 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
