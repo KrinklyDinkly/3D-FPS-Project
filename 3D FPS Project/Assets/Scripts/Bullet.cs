@@ -18,18 +18,18 @@ public class Bullet : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //Move Bullet
+        //Move bullet
         _rigidbody.velocity = transform.forward * moveSpeed;
 
         //Destroy bullet over time
         lifeTime -= Time.deltaTime;
-        if(lifeTime  <= 0)
+        if(lifeTime <= 0)
         {
             Destroy(this.gameObject);
         }
     }
 
-    void OnTriggerEnter(Collider other)
+    void OnCollisionEnter(Collision other)
     {
         Destroy(this.gameObject);
     }
